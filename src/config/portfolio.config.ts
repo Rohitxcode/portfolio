@@ -216,8 +216,5 @@ socialLinks: {
     },
   ],
 
-  // API Keys
-  apiKeys: {
-    resendApiKey: "YOUR_RESEND_API_KEY",
-  },
+
 };
