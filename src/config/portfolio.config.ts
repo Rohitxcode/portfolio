@@ -197,6 +197,19 @@ socialLinks: {
       ],
       link: "https://github.com/Rohitxcode",
     },
+    {
+  title: "IdeaDump",
+  description:
+    "Built a modern full-stack idea management platform using Next.js and Supabase where users can instantly capture, organize, and manage thoughts with authentication, search, and responsive dark-themed UI.",
+  tags: [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Supabase",
+    "Vercel",
+  ],
+  link: "https://idea-dump-topaz.vercel.app/",
+},
   ],
 
   // More Links Information
