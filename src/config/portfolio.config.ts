@@ -175,42 +175,70 @@ socialLinks: {
   ],
 
   // Projects Information
-  projects: [
-    {
-      title: "Ray-Ban Landing Page",
-      description:
-        "Designed an immersive landing page using Three.js, HTML, CSS, and JavaScript featuring interactive 3D visuals and modern UI animations.",
-      tags: ["JavaScript", "Three.js", "HTML", "CSS"],
-      link: "https://rohitxcode.github.io/RayBan-main/",
-    },
+// Projects Information
+projects: [
+  {
+    title: "Ray-Ban Landing Page",
+    description:
+      "Designed an immersive landing page using Three.js, HTML, CSS, and JavaScript featuring interactive 3D visuals and modern UI animations.",
+    tags: ["JavaScript", "Three.js", "HTML", "CSS"],
+    link: "https://rohitxcode.github.io/RayBan-main/",
+  },
 
-    {
-      title: "AI Resume Analyzer",
-      description:
-        "Built an AI-powered resume analysis platform using React and TypeScript with ATS scoring, job-description matching, and personalized feedback.",
-      tags: [
-        "React",
-        "TypeScript",
-        "Tailwind CSS",
-        "Zustand",
-        "Vite",
-      ],
-      link: "https://github.com/Rohitxcode",
-    },
-    {
-  title: "IdeaDump",
-  description:
-    "Built a modern full-stack idea management platform using Next.js and Supabase where users can instantly capture, organize, and manage thoughts with authentication, search, and responsive dark-themed UI.",
-  tags: [
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Supabase",
-    "Vercel",
-  ],
-  link: "https://idea-dump-topaz.vercel.app/",
-},
-  ],
+  {
+    title: "AI Resume Analyzer",
+    description:
+      "Built an AI-powered resume analysis platform using React and TypeScript with ATS scoring, job-description matching, and personalized feedback.",
+    tags: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Zustand",
+      "Vite",
+    ],
+    link: "https://github.com/Rohitxcode",
+  },
+
+  {
+    title: "IdeaDump",
+    description:
+      "Built a modern full-stack idea management platform using Next.js and Supabase where users can instantly capture, organize, and manage thoughts with authentication, search, and responsive dark-themed UI.",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Supabase",
+      "Vercel",
+    ],
+    link: "https://idea-dump-topaz.vercel.app/",
+  },
+
+  {
+    title: "Draw It",
+    description:
+      "Built a collaborative drawing and whiteboard application using Next.js and tldraw with an interactive canvas and shareable drawing links.",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "tldraw",
+    ],
+    link: "YOUR_DEPLOYED_DRAW_IT_LINK",
+  },
+
+  {
+    title: "Sticky Notes",
+    description:
+      "Built a sleek sticky notes application using React and TypeScript with drag-and-drop functionality, color customization, and persistent local storage for a smooth note-taking experience.",
+    tags: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vite",
+    ],
+    link: "sticky-notes-8p92kj6h7-rohitxcodes-projects.vercel.app",
+  },
+],
 
   // More Links Information
   moreLinks: [
