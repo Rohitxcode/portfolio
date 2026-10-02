@@ -231,10 +231,12 @@ projects: [
     description:
       "Built a sleek sticky notes application using React and TypeScript with drag-and-drop functionality, color customization, and persistent local storage for a smooth note-taking experience.",
     tags: [
+      "Next.js",
       "React",
       "TypeScript",
       "Tailwind CSS",
       "Vite",
+
     ],
     link: "sticky-notes-8p92kj6h7-rohitxcodes-projects.vercel.app",
   },
